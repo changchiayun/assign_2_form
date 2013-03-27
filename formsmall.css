@@ -30,6 +30,16 @@ font-family: 'Julius Sans One', 微軟正黑體 , Microsoft JhengHei ,sans-serif;
 background-color:#CCCCCC;
 }
 
+a{
+background-color:#769489;
+color:#FFF;
+padding:5px 10px 5px 10px;
+text-decoration:none;
+font-family: 'Julius Sans One', 微軟正黑體 , Microsoft JhengHei ,sans-serif;
+}
+a:hover{
+background-color:#CCCCCC;
+}
 
 div{
 background-color:#7d663c;
